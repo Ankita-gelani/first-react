@@ -1,0 +1,20 @@
+h1{background: red; color: #ffffff;}
+/* img{width: auto;height: 350px; object-fit: cover;} */
+  /* Props css */
+  .props-div{display: flex;justify-content: start;gap: 50px;}
+  .prps-card{display: flex;flex-direction: column;border: 1px solid #242424;border-radius: 5px;background-color: #f0f0f0;padding:20px ;width: 33.33%;}
+  .prps-card h1{background: inherit;font-size: 24px;color: #242424;font-weight: 500;}
+  .prps-card img{width: 100%;height: 350px;object-fit: cover;}
+  .prps-card p{background: inherit;font-size: 20px;color: #373737;font-weight: 400;}
+  /* Props css */
+
+  /* FORM HANDINGCSS */
+  form {width: 100%;max-width: 767px;margin: 50px auto;background: #f2f2f2;padding: 20px;}
+form label {width: 100%;display: block;margin-bottom: 5px;}
+form input[type="text"],
+form select{
+  width: 100%;display: block;height: 30px;}
+table.table {width: 90%;text-align: left;border-collapse: collapse;margin: auto;}
+table.table thead {background: #f2f2f2;}
+table.table thead tr th, table.table tbody tr td {border: 1px solid #ddd;padding: 8px;}
+  /* FORM HANDINGCSS */

@@ -1,0 +1,20 @@
+[
+    {
+      "haeding": "Head01",
+      "img": "img/image1.png",
+      "ftr": "UI/UX Designer"
+    },
+    {
+      "haeding": "Head02",
+      "img": "img/image2.jpg",
+      "ftr": "Web Designer"
+    },
+    {
+      "haeding": "Head03",
+      "img": "img/image3.jpg",
+      "ftr": "Frontend Designer"
+    }
+  ]
+
+
+  
